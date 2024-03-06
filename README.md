@@ -1,2 +1,1 @@
-<a href="https://colab.research.google.com/github/utkarshp1161/SIFTrVAE/blob/main/VAE_SIFT.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-SIFTrVAE
+Notebook link: https://drive.google.com/file/d/1KtyVr5Pd3ZaDAEJhTvXHM8I4_8M6ffMY/view?usp=sharing
