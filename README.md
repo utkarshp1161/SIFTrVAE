@@ -12,4 +12,4 @@
   </tr>
 </table>
 
-<img src="https://github.com/utkarshp1161/SIFTrVAE/blob/main/latent_image_0/latent_image_0video-ezgif.com-optimize.gif" alt="Latent images" style="width: 900px; height: 500px;"/>
+<img src="https://github.com/utkarshp1161/SIFTrVAE/blob/main/latent_image_0/latent_image_0video-ezgif.com-optimize.gif" alt="Latent images" style="width: 1200px; height: 500px;"/>
